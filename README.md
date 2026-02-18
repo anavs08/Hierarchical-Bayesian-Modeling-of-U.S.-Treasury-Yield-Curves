@@ -49,7 +49,7 @@ The notebook expects a CSV with the **GSW-style** yield-curve factor columns:
 - `BETA0`, `BETA1`, `BETA2`
 
 In the notebook, this is read as something like:
-- `/content/sample_data/feds200628.csv` (data has been attached as well)
+- `/content/sample_data/feds200628.csv` (data from the following website: https://www.federalreserve.gov/econres/feds/the-us-treasury-yield-curve-1961-to-the-present.htm)
 
 If you run locally, update the file path to wherever you store the CSV.
 
